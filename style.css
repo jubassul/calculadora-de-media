@@ -1,0 +1,47 @@
+body {
+  font-family: 'Comic Sans MS',monospace;
+  min-height: 400px;
+  background-color: #89B6E7;
+  background-size: 70vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:black;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:black;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.noteInput {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+.button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
